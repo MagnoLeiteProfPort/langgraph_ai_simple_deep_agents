@@ -1,0 +1,3 @@
+deepagents
+tavily-python
+python-dotenv
